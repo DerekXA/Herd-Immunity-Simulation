@@ -73,3 +73,10 @@ class Logger(object):
         # new one begins.
         # NOTE: Here is an opportunity for a stretch challenge!
         pass
+
+        
+        #logger example!!!!
+        #   running simulation (date) 
+        #   population size:(number), virus:(?), mortality rate:(number), reproduction rate:(number)
+        #   step (number)
+        #   interactions:(number), new infections:(number), deaths:(number), vaccinations:(number)
